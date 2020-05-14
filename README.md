@@ -26,8 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 Prerequisite:
 
-[Virtualbox](https://www.virtualbox.org/manual/UserManual.html#installation) installed
-[Vagrant](https://www.vagrantup.com/docs/installation) installed
+[Virtualbox](https://www.virtualbox.org/manual/UserManual.html#installation) installed and [Vagrant](https://www.vagrantup.com/docs/installation) installed
 
 1. Clone od download the app repostory
 2. Run `vagrant up`
